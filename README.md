@@ -1,2 +1,2 @@
 # WikiTech
-Công nghệ Web nâng cao
+Blog and ecommerce web of technology product
